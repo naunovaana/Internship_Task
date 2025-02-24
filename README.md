@@ -26,6 +26,8 @@ This project includes CRUD functionalities for users, projects, and tasks, using
 ## Steps for setting up the project locally
 
 ### 1.Clone the Repository
+git clone https://github.com/naunovaana/Internship_Task
+cd Internship_Task
 
 ### 2.Import the Database
 1. Open MySQL client or Workbench.
